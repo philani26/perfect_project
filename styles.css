@@ -1050,4 +1050,7 @@ section { padding: 86px 0; scroll-margin-top: 76px; }
   .work-card:nth-child(3),
   .work-card:nth-child(4),
   .work-card:nth-child(5) { grid-column: span 1; grid-row: span 1; }
+
+  .dial-center-text .temp { font-size: 2.3rem; }
+  .dial-center-text .label { font-size: 0.56rem; letter-spacing: 0.08em; margin-top: 2px; }
 }
