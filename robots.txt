@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.perfectlprojects.co.za/sitemap.xml
